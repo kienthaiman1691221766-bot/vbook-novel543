@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "name": "Novel543",
+      "author": "Novel543 vBook adapter",
+      "version": 1,
+      "source": "https://www.novel543.com",
+      "description": "Duyệt và đọc truyện trên Novel543",
+      "type": "chinese_novel",
+      "locale": "zh_CN",
+      "path": "https://raw.githubusercontent.com/kienthaiman1691221766-bot/vbook-novel543/main/plugin.zip",
+      "icon": "https://raw.githubusercontent.com/kienthaiman1691221766-bot/vbook-novel543/main/icon.png"
+    }
+  ]
+}
